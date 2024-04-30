@@ -1,0 +1,1 @@
+<?php //partir au pays des stupids ja
